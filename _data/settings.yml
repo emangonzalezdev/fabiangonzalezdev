@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 
-title: FabianSato 
-tab__title: FabianSato ¡Todos podemos programar! Programación y tecnología
+title: FabianGonzalez 
+tab__title: FabianGonzalez ¡Todos podemos programar! Programación y tecnología
 meta__title: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
 logo: #'/images/logo.webp'
 description: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
@@ -27,7 +27,7 @@ menu__settings:
 
 # Call to action button
 cta__button__text: Cursos
-cta__button_url: 'https://fabiansato.com/'
+cta__button_url: 'https://FabianGonzalez.com/'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
 cover__image: '/images/cover-image.webp'
@@ -37,11 +37,11 @@ cover__image: '/images/cover-image.webp'
 # Author Settings
 
 author:
-  name: Fabian Sato
-  title: 👋Hola soy Fabian Sato
+  name: Fabian Gonzalez
+  title: 👋Hola soy Fabian Gonzalez
   # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
   bio: "
-   <b>Desarrollador Web Senior</b> en <b>Unilever</b> con plataforma Adobe Experience Manager (AEM).<br/>
+   <b>Ingeniero de software con plataforma Adobe Experience Manager (AEM).<br/>
 <b>Tecnologías</b>: HTML, CSS, Javascript, PHP, Mysql, Reactjs, NodeJS.<br/>
 <b>Títulos</b>: de diseñador gráfico digital y Fullstack Developer + React (Universidad Tecnológica nacional). Además me encanta muchisimo el mundo Geek 🤓 "
   image: '/images/sato-avatar-full.webp'
@@ -98,7 +98,7 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: contacto@fabiansato.com # Add your email for contact form
+  contact__email: fabiangonzalezdev@gmail.comm # Add your email for contact form
   contact__title: Estate <span class="text-span">en contacto</span>  # Add a title to your form
   contact__description: ¿QUieres hablar de trabajo? ¿QUieres hablar de Webdev o diseño? ¡Acá estoy!. # Add a description to your form
 
@@ -110,19 +110,19 @@ contact__settings:
 # Newsletter Settings
 mailchimp__settings:
   mailchimp__title: <span class="text-span">Contáctate</span> Conmigo  # Add your title
-  mailchimp__text: " 'Para hablar de trabajo', 'Para hablar de programación, Diseño y el mundo Geek ' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__text: " 'Para hablar de trabajo', 'Para hablar de programación' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
   mailchimp__identifier:  http://eepurl.com/hIkfHr # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/Suscribite/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Mandame Whatsapp &nbsp; <i class="ion ion-logo-whatsapp"></i> # Add your button text
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: https-fabiansato-github-io # add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: https-FabianGonzalez-github-io # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: G-EWFWEGYPFP # Add your identifier. For example UA-99631805-1.
+google-analytics: G-0FJ2SRHHEC # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
@@ -131,10 +131,8 @@ google-analytics: G-EWFWEGYPFP # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/fabiansatodev"}
-- {icon: "ion-logo-github", link: "https://github.com/fabiansato"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/fabiansatodev/"}
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCXvmfLwOtwZS845_-WBFnnQ"}
-# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-# - {icon: "ion-logo-codepen", link: "https://codepen.io"}
-# - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+- {icon: "ion-logo-twitter", link: "https://x.com/FabianGDev"}
+- {icon: "ion-logo-github", link: "https://github.com/fabiangonzalezdev"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/fabiangonzalezdev"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@FabianGonzalezDev"}
+- {icon: "ion-logo-tiktok", link: "https://www.tiktok.com/@fabiangonzalezdev"}
