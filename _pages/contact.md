@@ -5,7 +5,7 @@ description: Web development, Diseño gráfico, Creación de WebApps. Mis trabaj
 image: '/images/book-card.webp'
 ---
 
-¡Hola a todos!. Por favor contactáme vía mail a [fabiangonzalezdev@gmail.comm](mailto:fabiangonzalezdev@gmail.comm){:target="_blank"} o [click aquí](https://calendly.com/FabianGonzalez/){:target="_blank"} para un meet.
+¡Hola a todos!. Por favor contactáme vía mail a [fabiangonzalezdev@gmail.com](mailto:fabiangonzalezdev@gmail.com){:target="_blank"} o [click aquí](https://calendly.com/FabianGonzalez/){:target="_blank"} para un meet.
 
 <!-- <div class="gallery-box">
   <div class="gallery">

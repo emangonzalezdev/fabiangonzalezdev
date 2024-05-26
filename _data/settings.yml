@@ -27,7 +27,7 @@ menu__settings:
 
 # Call to action button
 cta__button__text: Cursos
-cta__button_url: 'https://FabianGonzalez.com/'
+cta__button_url: 'https://poligonwebs.com/cursos'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
 cover__image: '/images/cover-image.webp'
@@ -98,7 +98,7 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: fabiangonzalezdev@gmail.comm # Add your email for contact form
+  contact__email: fabiangonzalezdev@gmail.com # Add your email for contact form
   contact__title: Estate <span class="text-span">en contacto</span>  # Add a title to your form
   contact__description: ¿QUieres hablar de trabajo? ¿QUieres hablar de Webdev o diseño? ¡Acá estoy!. # Add a description to your form
 
