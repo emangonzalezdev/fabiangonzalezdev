@@ -79,7 +79,7 @@
 
     padding: 4px 42px;
     border-radius: 20px;
-    background: linear-gradient(135deg, #08bafe 38%, #ea6ffe 100%);
+    background: linear-gradient(135deg, #08bafe 50%,#08bafe 100%);
 
     color: #fff;
     outline: none;
@@ -88,7 +88,8 @@
 
     &:hover {
       background-color: rgba($secondary-color, 0.08);
-      background: linear-gradient(135deg, #ea6ffe 100%,#08bafe 38%);
+
+      background: linear-gradient(135deg, #ea6ffe 2%,#08bafe 100%);
 
 
       
@@ -121,10 +122,23 @@
     }
   }
 }
+.author__imageMobile{
+  width: 180px;
+  height: 180px;
+  margin-left: auto;
+  border-radius: 90px;
+  margin-left: 20%;
+  margin-bottom: 20px;
+
+@media only screen and (min-width: $tablet) {
+  display: none;
+}
+
+}
 
 .author__right {
   position: relative;
-
+ 
   .author__image {
     position: relative;
     z-index: 10;
@@ -195,6 +209,8 @@
         border-radius: 60px;
       }
     }
+
+    
   }
 
   @media only screen and (max-width: $tablet) {

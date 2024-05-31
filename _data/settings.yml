@@ -9,8 +9,7 @@ description: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y t
 
 menu__settings:
   menu__items:
-    - title: 'Principal'
-      url: '/'
+ 
     - title: 'Proyectos'
       url: '/projects/'
     - title: 'Blog'
@@ -19,10 +18,6 @@ menu__settings:
       url: '/acercade'
     - title: 'Links'
       url: '/links'
-#    - title: 'Pages'
-#      submenu:
-#      - url: '/git'
-#         title: 'Git & Github'
 
 
 # Call to action button
@@ -41,11 +36,13 @@ author:
   title: Hola, soy Fabián González
   # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
   bio: "
- <b>Ingeniero de Software Especializado en Adobe Experience Manager (AEM)<br/>
+ <b>
+ Ingeniero de Software Especializado en Adobe Experience Manager (AEM)<br/>
 <b>Tecnologías</b> HTML, CSS, Javascript, PHP, Mysql, ReactJS, NodeJS<br/>
 <b>Títulos</b>: Diseñador Gráfico Digital y Fullstack Developer + React (Universidad Tecnológica Nacional).<br/> 
 Apasionado por el mundo Geek 🤓 "
-  image: '/images/sato-avatar-full.webp'
+  image: '/assets/img/600x600.png'
+  imageMobile: '/assets/img//avatar.png'
   avatar: '/images/sato-avatar.webp'
   button__text: Contáctame por WhatsApp
 
@@ -81,12 +78,6 @@ testimonial-items:
     designation : "Software Engineer"
     content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
 
-  # - name: "Julie Arnold"
-  #   image: "/images/client-4.webp"
-  #   designation : "Full stack developer"
-  #   content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
-
-
 #-------------------------------
 # Blog Section
 
@@ -106,7 +97,6 @@ contact__settings:
 # NOTE
 # Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
-
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
@@ -120,7 +110,6 @@ mailchimp__settings:
 # Comment Section (Disqus)
 disqus-identifier: https-FabianGonzalez-github-io # add your shortname for Disqus Comment. For example anvodstudio-demo
 
-
 #-------------------------------
 # Google Analytics
 google-analytics: G-0FJ2SRHHEC # Add your identifier. For example UA-99631805-1.
@@ -129,8 +118,7 @@ google-analytics: G-0FJ2SRHHEC # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Footer Settings
 # Social Links
-# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
-# Other icons can be found at https://ionicons.com/v4/
+
 social:
 - {icon: "ion-logo-twitter", link: "https://x.com/FabianGDev"}
 - {icon: "ion-logo-github", link: "https://github.com/fabiangonzalezdev"}
