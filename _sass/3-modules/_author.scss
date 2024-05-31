@@ -70,18 +70,16 @@
   }
 
   .author__btn {
-    margin-top: 44px;
-    display: inline-flex;
+    
     justify-content: revert;
     align-items: center;
-    font-size: 30px;
-    text-transform: uppercase;
-    line-height: 1;
-    font-weight: 800;
-    padding: 4px 32px;
+    font-size: 36px;
+  
+
+    padding: 4px 42px;
     border-radius: 20px;
-    background-color: $secondary-color;
-    border: 1px solid $secondary-color;
+    background: linear-gradient(135deg, #08bafe 38%, #ea6ffe 100%);
+
     color: #fff;
     outline: none;
     cursor: pointer;
@@ -89,9 +87,9 @@
 
     &:hover {
       background-color: rgba($secondary-color, 0.08);
-      color: $secondary-color;
+      background: linear-gradient(135deg, #ea6ffe 100%,#08bafe 38%);
 
-      border: 1px solid $secondary-color;
+
       
       .circle-bg {
         transition: all .2s cubic-bezier(.215,.61,.355,1);
