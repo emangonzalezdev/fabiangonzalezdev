@@ -175,6 +175,10 @@
       -moz-background-size: 15px 15px;
       background-size: 15px 15px;
       user-select: none;
+
+      @media only screen and (max-width: 1130px) {
+        position: unset !important;
+      }
     }
 
     img {
