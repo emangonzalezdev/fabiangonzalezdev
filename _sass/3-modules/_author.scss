@@ -75,12 +75,11 @@
     justify-content: revert;
     align-items: center;
     font-size: 26px;
-  
-
-    padding: 4px 42px;
+    width: 100%;
+    margin-top: 10px;
     border-radius: 20px;
+    border: none;
     background: linear-gradient(135deg, #08bafe 50%,#08bafe 100%);
-
     color: #fff;
     outline: none;
     cursor: pointer;
@@ -119,6 +118,7 @@
     
     @media only screen and (max-width: $desktop) {
       margin-top: 36px;
+      margin-top: 10px;
     }
   }
 }
