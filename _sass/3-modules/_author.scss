@@ -20,7 +20,8 @@
   align-items: center;
 
   @media only screen and (max-width: $tablet) {
-    flex-direction: column;
+    display: flex;
+
   }
 }
 
@@ -59,7 +60,7 @@
   }
 
   .author__bio {
-    margin-bottom: 0;
+    margin-bottom: 48px;
     font-size: 19px;
     line-height: 1.6;
     color: $text-color;
@@ -73,7 +74,7 @@
     
     justify-content: revert;
     align-items: center;
-    font-size: 36px;
+    font-size: 26px;
   
 
     padding: 4px 42px;
