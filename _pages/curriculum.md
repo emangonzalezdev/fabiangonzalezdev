@@ -1,5 +1,5 @@
 ---
-layout: acercade
+layout: curriculum
 title: Fabian Gonzalez
 description: Detalles de mí
 image: '/images/FabianGonzalez-about.webp'

@@ -192,7 +192,7 @@
   });
 
   /**
-   * Porfolio isotope and filter
+   * curriculum isotope and filter
    */
   window.addEventListener('load', () => {
     let portfolioContainer = select('.portfolio-container');
