@@ -2,26 +2,25 @@
 <section class="author">
   <div class="container">
     <div class="row">
-      <div class="col col-12">
-        <div class="author__inner">
+      <div class="col-12">
+        <div class="author__inner d-flex flex-column flex-md-row">
 
-          <div class="author__left">
+          <div class="author__right order-1 order-md-2 flex-fill">
+            <div class="author__image">
+              <img class="lazy img-fluid" data-src="{{ site.data.settings.author.image }}" alt="{{site.author.name}}'s Picture">
+            </div>
+          </div>
 
+          <div class="author__left order-2 order-md-1 flex-fill">
             <h1 class="author__name">{{ site.data.settings.author.title }}</h1>
             <p class="author__bio">{{ site.data.settings.author.bio }}</p>
             <a class="author__btn btn btn-primary" href="#projects">
-             {{ site.data.settings.author.button__text }}
-                </a>
+              {{ site.data.settings.author.button__text }}
+            </a>
 
-                <a class="author__btn btn btn-primary"  onclick="window.location.href='/cv/curriculum-fabian-gonzalez.pdf'">
-                  {{ site.data.settings.author.button__text2 }}
-                     </a>
-          </div>
-
-          <div class="author__right">
-            <div class="author__image">
-              <img class="lazy" data-src="{{ site.data.settings.author.image }}" alt="{{site.author.name}}'s Picture">
-            </div>
+            <a class="author__btn btn btn-primary" onclick="window.location.href='/cv/curriculum-fabian-gonzalez.pdf'">
+              {{ site.data.settings.author.button__text2 }}
+            </a>
           </div>
 
         </div>
