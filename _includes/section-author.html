@@ -14,7 +14,12 @@
           <div class="author__left order-2 order-md-1 flex-fill">
             <h1 class="author__name">{{ site.data.settings.author.title }}</h1>
             <p class="author__bio">{{ site.data.settings.author.bio }}</p>
-            <a class="author__btn btn btn-primary" href="#projects">
+
+            <a class="nav__item whatsapp-inferior">
+              <button class="header-embedSubmit" onclick="window.location.href='https://api.whatsapp.com/send?phone=5491128973151'">Mandame Whatsapp &nbsp; <i class="ion ion-logo-whatsapp"></i></button>
+              <button disabled="disabled" style="display:none" type="button" class="loading"> <div class="ml-form-embedSubmitLoad"></div> <span class="sr-only">Abriendo Whatsapp...</span> </button>
+            </a>
+            <a onclick="window.location.href='https://calendly.com/fabiangonzalezdev/charla-de-trabajo-de-30-minutos'" class="author__btn btn btn-primary" target="_blank">
               {{ site.data.settings.author.button__text }}
             </a>
 
