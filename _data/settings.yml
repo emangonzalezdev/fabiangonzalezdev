@@ -41,7 +41,7 @@ author:
 <b>Tecnologías</b> HTML, CSS, Javascript, PHP, Mysql, ReactJS, NodeJS<br/>
 <b>Títulos</b>: Diseñador Gráfico Digital y Fullstack Developer + React (Universidad Tecnológica Nacional).<br/> 
 Apasionado por el mundo Geek 🤓 "
-  image: '/assets/img/600x600.png'
+  image: '/assets/img/600x600.webp'
   imageMobile: '/assets/img//avatar.png'
   avatar: '/images/sato-avatar.webp'
   button__text: Agenda reunión laboral 📅
@@ -102,7 +102,7 @@ mailchimp__settings:
   mailchimp__title: <span class="text-span">Contáctate</span> Conmigo  # Add your title
   mailchimp__text: " 'Para hablar de trabajo', 'Para hablar de programación' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
   mailchimp__identifier:  http://eepurl.com/hIkfHr # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/Suscribite/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-  mailchimp__button__text: Mandame Whatsapp &nbsp; <i class="ion ion-logo-whatsapp"></i> # Add your button text
+  mailchimp__button__text: Envíame Whatsapp &nbsp; <i class="ion ion-logo-whatsapp"></i> # Add your button text
 
 
 #-------------------------------

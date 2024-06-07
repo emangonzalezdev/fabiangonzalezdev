@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://FabianGonzalez.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fabiangonzalez.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -60,3 +60,5 @@ tag_permalink_style:  /:title
 sass:
   sass_dir: _sass
   style: compressed
+
+encoding: "utf-8"
