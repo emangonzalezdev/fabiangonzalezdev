@@ -34,4 +34,4 @@ Si bien no serán todas las tecnologías usadas (porque son muchas más). Acá d
 <div class="block-header inner-sm" style="margin-bottom: 1.5em">
   <h2 class="block-title line-top">Screenshot Completo:</h2>
 </div>
- <img src="/images/portfolio/unilever-chances.webp">
+  <img loading="lazy" src="/images/portfolio/unilever-chances.webp">

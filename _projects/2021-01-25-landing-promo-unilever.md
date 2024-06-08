@@ -8,9 +8,9 @@ image: '/images/portfolio/shocase.webp'
 
 <!-- <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-5.webp" alt="Project">
-    <img src="/images/project-8.webp" alt="Project">
-    <img src="/images/project-7.webp" alt="Project">
+     <img loading="lazy" src="/images/project-5.webp" alt="Project">
+     <img loading="lazy" src="/images/project-8.webp" alt="Project">
+     <img loading="lazy" src="/images/project-7.webp" alt="Project">
   </div>
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->

@@ -111,12 +111,12 @@ li {
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/02.webp">
-    <img src="/images/10.webp">
-    <img src="/images/11.webp">
-    <img src="/images/12.webp">
-    <img src="/images/14.webp">
-    <img src="/images/27.webp">
+     <img loading="lazy" src="/images/02.webp">
+     <img loading="lazy" src="/images/10.webp">
+     <img loading="lazy" src="/images/11.webp">
+     <img loading="lazy" src="/images/12.webp">
+     <img loading="lazy" src="/images/14.webp">
+     <img loading="lazy" src="/images/27.webp">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
