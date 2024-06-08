@@ -10,7 +10,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 # **Programación**
 ### 🐍 Python
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/python.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/python.png" alt="alt text" width="200"/>
 
 [Cheatsheet Python](https://github.com/FabianGonzalez/python-cheatsheet "Cheatsheet Python por FabianGonzalez")
 
@@ -20,7 +20,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 ### C
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/c.png" alt="Programacion en C - Fabian Gonzalez" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/c.png" alt="Programacion en C - Fabian Gonzalez" width="200"/>
 
 [Cheatsheet C](https://github.com/FabianGonzalez/C-Cheatsheet "Cheatsheet C por FabianGonzalez")
 
@@ -28,7 +28,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 ### C++
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/cpp.png" alt="Programacion en C++ - Fabian Gonzalez" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/cpp.png" alt="Programacion en C++ - Fabian Gonzalez" width="200"/>
 
 
 [Cheatsheet C++](https://github.com/FabianGonzalez/cpp-cheatsheet "Cheatsheet C++ por FabianGonzalez")
@@ -38,7 +38,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 ### Java
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/java.png" alt="Programación en Java" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/java.png" alt="Programación en Java" width="200"/>
 
 [Cheatsheet JAVA](https://github.com/FabianGonzalez/java-cheatsheet "Cheatsheet JAVA por FabianGonzalez")
 
@@ -47,7 +47,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 ### 💻 Javascript
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/javascript.png" alt="Programación en Java" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/javascript.png" alt="Programación en Java" width="200"/>
 
 [Cheatsheet Javascript](https://github.com/FabianGonzalez/javascript-cheatsheet "Cheatsheet Javascript por FabianGonzalez")
 
@@ -55,7 +55,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 ### 💻 PHP
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/php.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/php.png" alt="alt text" width="200"/>
 
 [Cheatsheet PHP](https://github.com/FabianGonzalez/php-cheatsheet "Cheatsheet PHP por FabianGonzalez")
 
@@ -65,7 +65,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 # **Programación web**
 
 ### 💻 HTML
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/html5.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/html5.png" alt="alt text" width="200"/>
 
 
 [Cheatsheet HTML5](https://github.com/FabianGonzalez/html5-cheatsheet "Cheatsheet de HTML5 por FabianGonzalez")
@@ -83,20 +83,20 @@ HTML 5 estructura web:
 
 ### 💻 CSS
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/css3.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/css3.png" alt="alt text" width="200"/>
 
 
 #### BOOTSTRAP
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/bootstrap.png" alt="Programacion en C++ - Fabian Gonzalez" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/bootstrap.png" alt="Programacion en C++ - Fabian Gonzalez" width="200"/>
 
 #### SASS
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/sass.png" alt="Programacion en C++ - Fabian Gonzalez" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/sass.png" alt="Programacion en C++ - Fabian Gonzalez" width="200"/>
 
 
 
 ### REACTJS
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/reactjs.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/reactjs.png" alt="alt text" width="200"/>
 
 [Cheatsheet ReactJS](https://github.com/FabianGonzalez/reactjs-cheatsheet/ "Cheatsheet ReactJS por FabianGonzalez")
 
@@ -107,7 +107,7 @@ HTML 5 estructura web:
 
 ### Markdown
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/markdown.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/markdown.png" alt="alt text" width="200"/>
 
 
 [Cheatsheet Markdown](https://github.com/FabianGonzalez/Markdown-cheatsheet "Markdown Cheatsheet")
@@ -118,7 +118,7 @@ HTML 5 estructura web:
 
 
 ### 💻 NodeJS
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/nodejs.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/nodejs.png" alt="alt text" width="200"/>
 
 [Cheatsheet NodeJS](https://github.com/FabianGonzalez/nodeJS-cheatsheet "Cheatsheet de NodeJS por FabianGonzalez")
 
@@ -127,26 +127,26 @@ HTML 5 estructura web:
 [Ejercicios de NodeJS](https://github.com/FabianGonzalez/nodejs-ejercicios "Ejercicios NodeJS por FabianGonzalez")
 
 ### 💻 Npm
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/npm.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/npm.png" alt="alt text" width="200"/>
 
 
 
 ### 💻 MYSQL
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/mysql.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/mysql.png" alt="alt text" width="200"/>
 
 ### 💻 PHPMYADMIN
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/phpmyadmin.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/phpmyadmin.png" alt="alt text" width="200"/>
 
 ## 💻 **TERMINAL**
 ### Terminal
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/terminal.png" alt="Programación en Batch" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/terminal.png" alt="Programación en Batch" width="200"/>
 
 [Cheatsheet Terminal Linux ](https://github.com/FabianGonzalez/linux-terminal-cheatsheet/ "Cheatsheet Terminal Linux por FabianGonzalez")
 
 
 ### Batch
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/batch.png" alt="Programación en Batch" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/batch.png" alt="Programación en Batch" width="200"/>
 
 
 
@@ -155,7 +155,7 @@ HTML 5 estructura web:
 ## 💻 **Pseudocódigo**
 
 ## Pseint
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/pseint-logo.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/pseint-logo.png" alt="alt text" width="200"/>
 
 ##Programacion Estructural
 
@@ -172,13 +172,13 @@ HTML 5 estructura web:
 # **Electrónica**
 ###Arduino
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/arduino.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/arduino.png" alt="alt text" width="200"/>
 
 
 # **Gestores de versiones**
 ## GIT
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/git.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/git.png" alt="alt text" width="200"/>
 
 [Cheatsheet GIT](https://github.com/FabianGonzalez/GIT-Cheatsheet "Cheatsheet GIT por FabianGonzalez")
 
@@ -186,11 +186,11 @@ HTML 5 estructura web:
 
 ## GITHUB
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/github.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/github.png" alt="alt text" width="200"/>
 
 ## BITBUCKET
 
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/bitbucket.png" alt="Bitbucket" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/bitbucket.png" alt="Bitbucket" width="200"/>
                                                                                               
 # **Utilitarios**
 ### VSCODE
@@ -198,13 +198,13 @@ HTML 5 estructura web:
 
 # **Diseño gráfico**
 ## Adobe Illustrator
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/adobeillustrator.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/adobeillustrator.png" alt="alt text" width="200"/>
 
 ## Adobe Photoshop
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/adobephotohshop.png" alt="alt text" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/adobephotohshop.png" alt="alt text" width="200"/>
 
 ## **Un Carpincho para descontracturar**
- <img loading="lazy" src="https://FabianGonzalez.github.io/logos/capibara.png" alt="Capibara- Fabian Gonzalez" width="200"/>
+ <img loading="lazy"  width="100%" height="100%" src="https://FabianGonzalez.github.io/logos/capibara.png" alt="Capibara- Fabian Gonzalez" width="200"/>
 
 La menera de estudiar y trabajar será la siguiente:
 - 📓 Anotar cursos en one note ...

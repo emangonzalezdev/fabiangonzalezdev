@@ -9,9 +9,9 @@ image: '/images/book-card.webp'
 
 <!-- <div class="gallery-box">
   <div class="gallery">
-     <img loading="lazy" src="/images/me.webp" alt="Project">
-     <img loading="lazy" src="/images/project-8.webp" alt="Project">
-     <img loading="lazy" src="/images/project-6.webp" alt="Project">
+     <img loading="lazy"  width="100%" height="100%" src="/images/me.webp" alt="Project">
+     <img loading="lazy"  width="100%" height="100%" src="/images/project-8.webp" alt="Project">
+     <img loading="lazy"  width="100%" height="100%" src="/images/project-6.webp" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->

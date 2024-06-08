@@ -28,4 +28,4 @@ Programación de página web, diseño UX/UI y desarrollo de página de e-commerc
 <div class="block-header inner-sm" style="margin-bottom: 1.5em">
   <h2 class="block-title line-top">Screenshot Completo:</h2>
 </div>
-  <img loading="lazy" src="/images/portfolio/suave-pagina-full.webp">
+  <img loading="lazy"  width="100%" height="100%" src="/images/portfolio/suave-pagina-full.webp">
