@@ -33,14 +33,10 @@ cover__image: '/images/background.svg'
 
 author:
   name: Fabian Gonzalez
-  title: Hola, soy Fabian Gonzalez
+  title: 👋 Soy Fabian Gonzalez
   # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
   bio: "
- <b>
- Ingeniero de Software Especializado en Adobe Experience Manager (AEM)<br/>
-<b>Tecnologías</b> HTML, CSS, Javascript, PHP, Mysql, ReactJS, NodeJS<br/>
-<b>Títulos</b>: Diseñador Gráfico Digital y Fullstack Developer + React (Universidad Tecnológica Nacional).<br/> 
-Apasionado por el mundo Geek 🤓 "
+<b>Ingeniero de Software</b> experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Apasionado por la tecnología y el desarrollo web 🤓"
   image: '/assets/img/600x600.webp'
   imageMobile: '/assets/img//avatar.png'
   avatar: '/images/sato-avatar.webp'

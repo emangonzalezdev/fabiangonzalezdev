@@ -340,3 +340,17 @@ table td {
 .faq{
   margin-top: 25px;
 }
+@media (min-width: 768px){
+.autorImagen{
+  background-image: url("/assets/img/600x600.webp") !important;
+  background-position: 20% 40% !important;
+}
+}
+
+@media (max-width: 767px){
+  .autorImagen{
+    background-image: url("/assets/img/600x600_mobile.webp") !important;
+    background-position: 20% 40% !important;
+    max-height: 220px !important;
+  }
+  }
