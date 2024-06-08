@@ -7,7 +7,7 @@
 
           <div class="author__right order-1 order-md-2 flex-fill">
             <div class="author__image">
-              <img class=" img-fluid autorImagen">
+              <img class=" img-fluid autorImagen" alt="Fabian Gonzalez Dev">
             </div>
           </div>
 
@@ -15,15 +15,15 @@
             <h1 class="author__name">{{ site.data.settings.author.title }}</h1>
             <p class="author__bio">{{ site.data.settings.author.bio }}</p>
 
-            <a class="nav__item whatsapp-inferior">
+            <p class="nav__item whatsapp-inferior">
               <button class="header-embedSubmit" onclick="window.location.href='https://api.whatsapp.com/send?phone=5491128973151'">Envíame Whatsapp &nbsp; <i class="ion ion-logo-whatsapp"></i></button>
               <button disabled="disabled" style="display:none" type="button" class="loading"> <div class="ml-form-embedSubmitLoad"></div> <span class="sr-only">Abriendo Whatsapp...</span> </button>
-            </a>
-            <a onclick="window.location.href='https://calendly.com/fabiangonzalezdev/charla-de-trabajo-de-30-minutos'" class="author__btn btn btn-primary" target="_blank">
+            </p>
+            <p onclick="window.location.href='https://calendly.com/fabiangonzalezdev/charla-de-trabajo-de-30-minutos'" class="author__btn btn btn-primary" target="_blank">
               {{ site.data.settings.author.button__text }}
-            </a>
+            </p>
 
-            <a class="author__btn btn btn-primary" onclick="window.location.href='/cv/curriculum-fabian-gonzalez.pdf'">
+            <a class="author__btn btn btn-primary" onclick="window.location.href='/cv/curriculum-fabian-gonzalez.pdf'" href="/cv/curriculum-fabian-gonzalez.pdf">
               {{ site.data.settings.author.button__text2 }}
             </a>
           </div>
