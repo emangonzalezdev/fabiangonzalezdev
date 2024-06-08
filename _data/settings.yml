@@ -115,8 +115,8 @@ google-analytics: G-0FJ2SRHHEC # Add your identifier. For example UA-99631805-1.
 # Social Links
 
 social:
-- {icon: "ion-logo-twitter", link: "https://x.com/FabianGDev"}
+- {icon: "ion-logo-twitter", link: "https://x.com/gonndev"}
 - {icon: "ion-logo-github", link: "https://github.com/fabiangonzalezdev"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/fabiangonzalezdev"}
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@FabianGonzalezDev"}
-- {icon: "ion-logo-tiktok", link: "https://www.tiktok.com/@poligonwebs"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@GonnDev"}
+- {icon: "ion-logo-tiktok", link: "https://www.tiktok.com/@gonndev"}
