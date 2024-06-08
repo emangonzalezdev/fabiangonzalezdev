@@ -343,14 +343,14 @@ table td {
 @media (min-width: 768px){
 .autorImagen{
   background-image: url("/assets/img/600x600.webp") !important;
-  background-position: 20% 40% !important;
+  background-position: 50% 30% !important;
 }
 }
 
 @media (max-width: 767px){
   .autorImagen{
     background-image: url("/assets/img/600x600_mobile.webp") !important;
-    background-position: 20% 40% !important;
+    background-position: 50% 40% !important;
     max-height: 220px !important;
   }
   }
